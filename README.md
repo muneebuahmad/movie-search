@@ -1,3 +1,13 @@
+# TODO
+
+- [ ] Limit the amount of text in the description so tiles can be smaller
+- [ ] Make a better grid for desktop widths
+- [ ] Use axios instead of fetch
+- [ ] Try using css modules
+- [ ] Include redux to route to movie detail pages, or maybe just a modal with the movie details
+
+# Create React App boilerplate below
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
