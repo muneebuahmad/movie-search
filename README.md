@@ -1,10 +1,12 @@
 # TODO
 
 - [ ] Limit the amount of text in the description so tiles can be smaller
+- [ ] Include those titles with no poster, but include a default for them
 - [ ] Make a better grid for desktop widths
 - [ ] Use axios instead of fetch
 - [ ] Try using css modules
-- [ ] Include redux to route to movie detail pages, or maybe just a modal with the movie details
+- [ ] Include router to movie detail pages, or maybe just a modal with the movie details
+- [ ] Give the option of compact vs detailed views (so maybe a card vs list layout)
 
 # Create React App boilerplate below
 
